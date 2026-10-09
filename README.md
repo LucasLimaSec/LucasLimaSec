@@ -109,14 +109,14 @@ Tenho um forte interesse em novas tecnologias e estou sempre buscando expandir m
   <tr>
     <td width="50%" valign="top">
       <sub><code>03</code> · VISÃO COMPUTACIONAL</sub>
-      <h3>🐝 <a href="https://github.com/justAnormlaguy/BeeAI">BeeAI</a></h3>
+      <h3> <a href="https://github.com/justAnormlaguy/BeeAI">BeeAI</a></h3>
       Visão computacional para classificar o <b>potencial apícola de flores</b>.
       <br /><br />
       <code>Python</code> <code>Visão computacional</code> <code>MIT</code>
     </td>
     <td width="50%" valign="top">
       <sub><code>04</code> · ALGORITMOS / BACKEND</sub>
-      <h3>🚛 <a href="https://github.com/justAnormlaguy/Rotas_Lixo_Otimizadas">Rotas de Lixo Otimizadas</a></h3>
+      <h3> <a href="https://github.com/justAnormlaguy/Rotas_Lixo_Otimizadas">Rotas de Lixo Otimizadas</a></h3>
       API em Java que otimiza as rotas de caminhões de coleta de lixo usando o <b>algoritmo de Dijkstra</b>.
       <br /><br />
       <code>Java</code> <code>API</code> <code>Grafos</code>
