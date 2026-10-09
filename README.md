@@ -30,7 +30,7 @@
 > **Segurança não é um relatório.** Um teste só vale pelo que muda depois dele: eu encontro a falha, escrevo a correção junto do time e ensino a reconhecer o mesmo padrão na próxima vez.
 
 <!-- ===================== SOBRE ===================== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="32" align="center" /> Sobre mim
+## Sobre mim
 
 -  **Foco atual:** pentest web, API e mobile, red team e AppSec / DevSecOps
 -  **No homelab:** agentes e automações com **IA rodando localmente** (llama.cpp, Qwen, moondream2)
@@ -50,7 +50,7 @@ Tenho um forte interesse em novas tecnologias e estou sempre buscando expandir m
 </details>
 
 <!-- ===================== ARSENAL ===================== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" align="center" /> Arsenal
+## Arsenal
 
 <table>
   <tr>
@@ -87,7 +87,7 @@ Tenho um forte interesse em novas tecnologias e estou sempre buscando expandir m
 </table>
 
 <!-- ===================== PROJETOS ===================== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" align="center" /> Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
@@ -129,7 +129,7 @@ Tenho um forte interesse em novas tecnologias e estou sempre buscando expandir m
 </p>
 
 <!-- ===================== ESTATÍSTICAS ===================== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" align="center" /> Estatísticas
+## Estatísticas
 
 <p align="center">
   <img height="170" alt="Estatísticas do GitHub"
