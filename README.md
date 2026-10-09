@@ -32,15 +32,15 @@
 <!-- ===================== SOBRE ===================== -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="32" align="center" /> Sobre mim
 
-- 🔓 **Foco atual:** pentest web, API e mobile, red team e AppSec / DevSecOps
-- 🤖 **No homelab:** agentes e automações com **IA rodando localmente** (llama.cpp, Qwen, moondream2)
-- 🎓 **Formação:** Engenharia de Software na **Unicesumar**, Maringá, PR
-- 🪖 **Antes do código:** Cabo do **Exército Brasileiro**, onde aprendi liderança e trabalho em equipe
-- 🧑‍🏫 **Também dou:** palestras e treinamentos de segurança da informação
-- 📫 **Fale comigo:** [lucodein@gmail.com](mailto:lucodein@gmail.com)
+-  **Foco atual:** pentest web, API e mobile, red team e AppSec / DevSecOps
+-  **No homelab:** agentes e automações com **IA rodando localmente** (llama.cpp, Qwen, moondream2)
+-  **Formação:** Engenharia de Software na **Unicesumar**, Maringá, PR
+-  **Antes do código:** Cabo do **Exército Brasileiro**, onde aprendi liderança e trabalho em equipe
+-  **Também dou:** palestras e treinamentos de segurança da informação
+-  **Fale comigo:** [lucodein@gmail.com](mailto:lucodein@gmail.com)
 
 <details>
-<summary><b>📜 Leia a versão completa</b></summary>
+<summary><b> Leia a versão completa</b></summary>
 <br />
 
 Me chamo **Lucas de Oliveira Lima** e sou natural do Paraná. Tenho formação como Cabo no Exército Brasileiro, onde desenvolvi habilidades sólidas em liderança e trabalho em equipe. Hoje curso Engenharia de Software na Unicesumar, aprofundando meus conhecimentos em linguagens de programação e em cibersegurança.
@@ -93,14 +93,14 @@ Tenho um forte interesse em novas tecnologias e estou sempre buscando expandir m
   <tr>
     <td width="50%" valign="top">
       <sub><code>01</code> · INTELIGÊNCIA DE AMEAÇAS</sub>
-      <h3>🌙 <a href="https://github.com/justAnormlaguy/curador-noturno">Curador Noturno</a></h3>
+      <h3> <a href="https://github.com/justAnormlaguy/curador-noturno">Curador Noturno</a></h3>
       Digest matinal de segurança da informação no Telegram, escrito de madrugada por um <b>modelo local</b>. Triagem em cascata, deduplicação por CVE e saída travada por gramática: 21 fontes viram 15 itens que valem a leitura.
       <br /><br />
       <code>Python</code> <code>llama.cpp</code> <code>SQLite</code> <code>Telegram</code>
     </td>
     <td width="50%" valign="top">
       <sub><code>02</code> · IA LOCAL / AUTOMAÇÃO</sub>
-      <h3>🗂️ <a href="https://portfolio-lucas-plum.vercel.app/#projetos">Organizador de Arquivos</a></h3>
+      <h3> <a href="https://portfolio-lucas-plum.vercel.app/#projetos">Organizador de Arquivos</a></h3>
       Aponta uma pasta e a IA renomeia cada arquivo pelo conteúdo. Metadados resolvem 60 a 70% sem modelo; o resto vai para o servidor. Como renomear é destrutivo, o pipeline <b>propõe o plano e espera a sua aprovação</b>.
       <br /><br />
       <code>Python</code> <code>moondream2</code> <code>EXIF</code> <code>SQLite</code>
