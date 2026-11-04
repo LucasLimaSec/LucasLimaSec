@@ -93,7 +93,7 @@ Tenho um forte interesse em novas tecnologias e estou sempre buscando expandir m
   <tr>
     <td width="50%" valign="top">
       <sub><code>01</code> · INTELIGÊNCIA DE AMEAÇAS</sub>
-      <h3> <a href="https://github.com/justAnormlaguy/curador-noturno">Curador Noturno</a></h3>
+      <h3> <a href="https://github.com/LucasLimaSec/curador-noturno">Curador Noturno</a></h3>
       Digest matinal de segurança da informação no Telegram, escrito de madrugada por um <b>modelo local</b>. Triagem em cascata, deduplicação por CVE e saída travada por gramática: 21 fontes viram 15 itens que valem a leitura.
       <br /><br />
       <code>Python</code> <code>llama.cpp</code> <code>SQLite</code> <code>Telegram</code>
@@ -109,14 +109,14 @@ Tenho um forte interesse em novas tecnologias e estou sempre buscando expandir m
   <tr>
     <td width="50%" valign="top">
       <sub><code>03</code> · VISÃO COMPUTACIONAL</sub>
-      <h3> <a href="https://github.com/justAnormlaguy/BeeAI">BeeAI</a></h3>
+      <h3> <a href="https://github.com/LucasLimaSec/BeeAI">BeeAI</a></h3>
       Visão computacional para classificar o <b>potencial apícola de flores</b>.
       <br /><br />
       <code>Python</code> <code>Visão computacional</code> <code>MIT</code>
     </td>
     <td width="50%" valign="top">
       <sub><code>04</code> · ALGORITMOS / BACKEND</sub>
-      <h3> <a href="https://github.com/justAnormlaguy/Rotas_Lixo_Otimizadas">Rotas de Lixo Otimizadas</a></h3>
+      <h3> <a href="https://github.com/LucasLimaSec/Rotas_Lixo_Otimizadas">Rotas de Lixo Otimizadas</a></h3>
       API em Java que otimiza as rotas de caminhões de coleta de lixo usando o <b>algoritmo de Dijkstra</b>.
       <br /><br />
       <code>Java</code> <code>API</code> <code>Grafos</code>
@@ -133,22 +133,22 @@ Tenho um forte interesse em novas tecnologias e estou sempre buscando expandir m
 
 <p align="center">
   <img height="170" alt="Estatísticas do GitHub"
-       src="https://github-readme-stats.vercel.app/api?username=justAnormlaguy&show_icons=true&locale=pt-br&rank_icon=github&bg_color=111210&title_color=C5F06A&icon_color=C5F06A&text_color=E9E9E3&ring_color=C5F06A&border_color=2a2c27&border_radius=10" />
+       src="https://github-readme-stats.vercel.app/api?username=LucasLimaSec&show_icons=true&locale=pt-br&rank_icon=github&bg_color=111210&title_color=C5F06A&icon_color=C5F06A&text_color=E9E9E3&ring_color=C5F06A&border_color=2a2c27&border_radius=10" />
   <img height="170" alt="Linguagens mais usadas"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=justAnormlaguy&layout=compact&langs_count=8&locale=pt-br&bg_color=111210&title_color=C5F06A&text_color=E9E9E3&border_color=2a2c27&border_radius=10" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLimaSec&layout=compact&langs_count=8&locale=pt-br&bg_color=111210&title_color=C5F06A&text_color=E9E9E3&border_color=2a2c27&border_radius=10" />
 </p>
 
 <p align="center">
   <img alt="Sequência de contribuições"
-       src="https://streak-stats.demolab.com?user=justAnormlaguy&locale=pt_BR&background=111210&border=2a2c27&stroke=2a2c27&ring=C5F06A&fire=E57F4C&currStreakNum=E9E9E3&sideNums=E9E9E3&currStreakLabel=C5F06A&sideLabels=8A8C86&dates=8A8C86&border_radius=10" />
+       src="https://streak-stats.demolab.com?user=LucasLimaSec&locale=pt_BR&background=111210&border=2a2c27&stroke=2a2c27&ring=C5F06A&fire=E57F4C&currStreakNum=E9E9E3&sideNums=E9E9E3&currStreakLabel=C5F06A&sideLabels=8A8C86&dates=8A8C86&border_radius=10" />
 </p>
 
 <!-- ===================== COBRINHA ===================== -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justAnormlaguy/justAnormlaguy/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justAnormlaguy/justAnormlaguy/output/snake-light.svg" />
-    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/justAnormlaguy/justAnormlaguy/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasLimaSec/LucasLimaSec/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasLimaSec/LucasLimaSec/output/snake-light.svg" />
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/LucasLimaSec/LucasLimaSec/output/snake-dark.svg" />
   </picture>
 </p>
 
